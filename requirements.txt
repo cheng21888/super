@@ -11,4 +11,4 @@ openai
 matplotlib 
 pandas 
 plotly 
-backtrader0
+backtrader
